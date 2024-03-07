@@ -2076,6 +2076,13 @@ input, select, textarea {
 				transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 				color: #ed786a;
 			}
+			.feature .image.featured .overlay {
+				/* ... other styles ... */
+				font-size: 1.3em; /* Increase font size */
+				font-weight: bold; /* Make text bold */
+				/* ... other styles ... */
+			}
+			
 
 /* Features */
 
@@ -2701,5 +2708,7 @@ input, select, textarea {
 					margin-left: 0;
 					border-left: 0;
 				}
+
+			
 
 	}
